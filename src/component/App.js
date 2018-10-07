@@ -3,6 +3,7 @@ import Canvas from './Canvas';
 import "./App.css";
 
 export default class App extends React.PureComponent {
+  
   render() {
     return (
       <div className="component-app">
