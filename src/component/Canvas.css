@@ -1,0 +1,9 @@
+.canvas-wrap {
+  height: 150px;
+}
+
+.button-wrap span {
+  font-size: 14px; 
+  margin-right: 15px;
+  line-height: 45px;
+}

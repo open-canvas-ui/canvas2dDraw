@@ -1,0 +1,20 @@
+{
+  "name": "canvas2dDraw",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/open-canvas-ui/canvas2dDraw",
+  "devDependencies": {
+    "react-scripts": "^1.1.4"
+  },
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  }
+}
